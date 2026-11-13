@@ -1,0 +1,29 @@
+[
+  {"pos": "A", "name": "6_czwartek_A_pangram", "headline": "A PANGRAM", "text": "uses every letter of the alphabet",
+   "examples": [
+     {"en": "The quick brown fox jumps over the lazy dog.", "pl": "Najsłynniejszy angielski pangram – ma wszystkie 26 liter."},
+     {"en": "Designers use it to test fonts.", "pl": "Graficy używają go do testowania czcionek."}
+   ]},
+  {"pos": "B", "name": "5_sroda_B_spitting_image", "headline": "spitting image", "label": "idiom", "text": "wypisz, wymaluj / wykapany ...",
+   "examples": [
+     {"en": "She's the spitting image of her mom.", "pl": "Jest wykapaną mamą."},
+     {"en": "He's the spitting image of his grandpa at that age.", "pl": "Wygląda kropka w kropkę jak jego dziadek w tym wieku."}
+   ]},
+  {"pos": "C", "name": "4_wtorek_C_and_all_for_nothing", "headline": "and all for nothing", "label": "idiom", "text": "i wszystko na nic",
+   "examples": [
+     {"en": "We waited three hours, and all for nothing.", "pl": "Czekaliśmy trzy godziny i wszystko na nic."},
+     {"en": "I studied all weekend, and all for nothing – the test got canceled.", "pl": "Uczyłem się cały weekend i wszystko na nic – test odwołano."}
+   ]},
+  {"pos": "D", "name": "3_czwartek_D_well_done", "headline": "Well done is better than well said.", "label": "Benjamin Franklin",
+   "translation": "Lepiej dobrze zrobić, niż dobrze powiedzieć.", "source": "Benjamin Franklin, Poor Richard's Almanack (1737)"},
+  {"pos": "E", "name": "2_sroda_E_mindset", "headline": "mindset", "label": "noun", "text": "nastawienie, sposób myślenia",
+   "examples": [
+     {"en": "A growth mindset helps you learn faster.", "pl": "Nastawienie na rozwój pomaga szybciej się uczyć."},
+     {"en": "Change your mindset before the exam.", "pl": "Zmień nastawienie przed egzaminem."}
+   ]},
+  {"pos": "F", "name": "1_wtorek_F_outcome", "headline": "outcome", "label": "noun", "text": "wynik, rezultat",
+   "examples": [
+     {"en": "We're happy with the outcome of the meeting.", "pl": "Jesteśmy zadowoleni z wyniku spotkania."},
+     {"en": "Nobody can predict the outcome of the game.", "pl": "Nikt nie przewidzi wyniku meczu."}
+   ]}
+]
