@@ -77,8 +77,21 @@ Sprawdź, że `https://raw.githubusercontent.com/CouchAndCoach/couch-and-coach-p
 Wyślij powiadomienie push (narzędzie PushNotification; jeśli jest odroczone, załaduj przez ToolSearch "select:PushNotification"), status "proactive", jedna linia bez markdown, do 200 znaków:
 „Posty na [daty] gotowe: [hasło1], [hasło2], [hasło3]. Sprawdź podgląd i napisz w projekcie „publikuj” albo „zmień …”.”
 
-Końcowa odpowiedź (dla Szymona), w kolejności publikacji:
-- link do podglądu siatki (raw URL powyżej) i tydzień cyklu,
+Końcowa odpowiedź (dla Szymona; trafia też do niego e-mailem). Zacznij DOKŁADNIE od tego bloku (podstaw WTOREK):
+
+```
+👉 ZATWIERDŹ PUBLIKACJĘ (jedno kliknięcie + „Commit changes”):
+https://github.com/CouchAndCoach/couch-and-coach-posts/new/main?filename=posty/WTOREK/ZATWIERDZONE&value=ok
+
+⛔ WSTRZYMAJ TEN TYDZIEŃ:
+https://github.com/CouchAndCoach/couch-and-coach-posts/new/main?filename=posty/WTOREK/STOP&value=stop
+
+Podgląd siatki: https://raw.githubusercontent.com/CouchAndCoach/couch-and-coach-posts/main/posty/WTOREK/podglad_siatki.png
+```
+Pod spodem jedno zdanie: „Link otwiera GitHub z gotowym plikiem – wystarczy kliknąć zielony przycisk »Commit changes«. Możesz też napisać »publikuj« w projekcie Claude.”
+
+Następnie, w kolejności publikacji:
+- tydzień cyklu,
 - dla każdego posta: dzień, data, godziny publikacji (IG/FB/LinkedIn/X: wtorek 19:00/18:00/16:00/13:00, środa 12:00/12:30/16:00/12:00, czwartek 9:00/13:00/13:00/14:00), pozycja, typ, tło, temat z trendu + link, pola grafiki, linki raw do slajdów, cztery opisy w osobnych blokach,
 - przy cytacie: link potwierdzający autorstwo,
 - informacja: „Instagram i Facebook opublikują się automatycznie dopiero po Twoim »publikuj«. LinkedIn i X wklejasz ręcznie.”
