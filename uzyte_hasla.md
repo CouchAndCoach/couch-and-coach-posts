@@ -10,8 +10,8 @@ Format nowych wpisów: `data | pozycja | typ | hasło`
 
 ## Stan cyklu
 
-Ostatni opublikowany wpis w nowym systemie A–F: **brak**
-→ Następny „nowy tydzień” = **tydzień 1 cyklu** (wtorek F → środa E → czwartek D).
+Ostatni opublikowany wpis w nowym systemie A–F: **2026-11-19 | D | QUOTE OF THE DAY | A small leak will sink a great ship.**
+→ Następny „nowy tydzień” = **tydzień 2 cyklu** (wtorek C → środa B → czwartek A).
 
 Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się nowy cykl.
 
@@ -22,6 +22,7 @@ Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się 
 **Słowa, frazy, idiomy**
 - a ballpark figure
 - backlog
+- buzzword
 - break even
 - call it a day
 - dip
@@ -29,12 +30,14 @@ Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się 
 - heads-up
 - I'm on it
 - learn the ropes
+- leftovers
 - no big deal
 - no-brainer
 - on the fence
 - that works for me
 
 **Cytaty**
+- A small leak will sink a great ship. (Benjamin Franklin)
 - Small steps every day.
 - Use what you know.
 
@@ -50,7 +53,9 @@ Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się 
 
 data | pozycja | typ | hasło
 --- | --- | --- | ---
-(brak wpisów)
+2026-11-17 | F | WORD OF THE DAY | leftovers
+2026-11-18 | E | WORD OF THE DAY | buzzword
+2026-11-19 | D | QUOTE OF THE DAY | A small leak will sink a great ship.
 
 ---
 
