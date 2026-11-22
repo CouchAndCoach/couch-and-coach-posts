@@ -10,8 +10,8 @@ Format nowych wpisów: `data | pozycja | typ | hasło`
 
 ## Stan cyklu
 
-Ostatni opublikowany wpis w nowym systemie A–F: **2026-11-19 | D | QUOTE OF THE DAY | A small leak will sink a great ship.**
-→ Następny „nowy tydzień” = **tydzień 2 cyklu** (wtorek C → środa B → czwartek A).
+Ostatni opublikowany wpis w nowym systemie A–F: **2026-11-26 | A | DID YOU KNOW? | TURKEY**
+→ Następny „nowy tydzień” = **tydzień 1 cyklu** (wtorek F → środa E → czwartek D).
 
 Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się nowy cykl.
 
@@ -22,12 +22,14 @@ Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się 
 **Słowa, frazy, idiomy**
 - a ballpark figure
 - backlog
+- break the bank
 - buzzword
 - break even
 - call it a day
 - dip
 - get the ball rolling
 - heads-up
+- hit the road
 - I'm on it
 - learn the ropes
 - leftovers
@@ -46,6 +48,7 @@ Po pozycji D zaczyna się tydzień 2 (C → B → A). Po pozycji A zaczyna się 
 - rekiny są starsze niż drzewa
 - ośmiornice mają trzy serca
 - banany są jagodami, truskawki nie
+- TURKEY – indyk nazwany od Turcji (pomyłka z perliczką; polski „indyk” od Indii)
 
 ---
 
@@ -56,6 +59,9 @@ data | pozycja | typ | hasło
 2026-11-17 | F | WORD OF THE DAY | leftovers
 2026-11-18 | E | WORD OF THE DAY | buzzword
 2026-11-19 | D | QUOTE OF THE DAY | A small leak will sink a great ship.
+2026-11-24 | C | IDIOM OF THE DAY | break the bank
+2026-11-25 | B | IDIOM OF THE DAY | hit the road
+2026-11-26 | A | DID YOU KNOW? | TURKEY
 
 ---
 
