@@ -11,8 +11,8 @@ Baza adresów: `https://raw.githubusercontent.com/CouchAndCoach/couch-and-coach-
 
 ## 2. Bezpieczniki
 - `BAZA/posty/WTOREK/STOP` zwraca 200 → nic nie publikuj, push „Publikacja wstrzymana (STOP).” i zakończ.
-- `BAZA/posty/WTOREK/ZATWIERDZONE` NIE zwraca 200 → nic nie publikuj, push „Post na dziś czeka na zatwierdzenie – link w mailu albo »publikuj« w projekcie.” Końcowa odpowiedź (idzie mailem) zaczyna się od: „👉 Zatwierdź: https://github.com/CouchAndCoach/couch-and-coach-posts/new/main?filename=posty/WTOREK/ZATWIERDZONE&value=ok (kliknij »Commit changes«). Po zatwierdzeniu dzisiejszy post wyjdzie dopiero w kolejnym terminie publikacji albo po napisaniu »opublikuj dzisiejszy« w projekcie Claude.” Zakończ.
-- Uwaga: plik z GitHuba może pojawić się na raw.githubusercontent.com z kilkuminutowym opóźnieniem – jeśli ZATWIERDZONE zwraca 404, odczekaj 2 minuty i sprawdź jeszcze raz przed uznaniem, że brak zatwierdzenia.
+- Zatwierdzenie NIE jest wymagane (zasada Szymona od 25.11.2026): jeśli nie ma pliku STOP, publikujesz. Plik `ZATWIERDZONE` nie ma już znaczenia – nie sprawdzaj go.
+- Uwaga: plik STOP dodany na GitHubie może pojawić się na raw.githubusercontent.com z kilkuminutowym opóźnieniem – jeśli STOP zwraca 404, odczekaj 2 minuty i sprawdź jeszcze raz przed publikacją.
 - `BAZA/posty/WTOREK/opublikowano_DZIŚ.txt` zwraca 200 → już opublikowano, zakończ bez publikacji.
 - Sprawdź curl -sI, że oba obrazy zwracają 200 i `image/jpeg`:
   `BAZA/posty/WTOREK/<name>_slajd1.jpg`, `BAZA/posty/WTOREK/<name>_slajd2.jpg`.
